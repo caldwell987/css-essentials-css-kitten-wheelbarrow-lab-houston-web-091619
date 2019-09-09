@@ -32,7 +32,7 @@
   z-index: 5;
   top: 291px;
   left: 319px;
-
+}
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 .one {
@@ -42,18 +42,3 @@
   left: 223px;
 }
 
-div class="one">
-    <img src="images/kitty-5.png" alt="Kitty 5">
-    </div>
-    
-    <img class="kitty-1" src="images/kitty-1.png" alt="Kitty 1">
-
-    <img id="kitty-2" src="images/kitty-2.png" alt="Kitty 2">
-
-    <div id="basket">
-      <img src="images/kitty-3.png" alt="kitty 3">
-    </div>
-
-    <div id="ball">
-    <img src="images/kitty-4.png" alt="kitty 4">
-    </div>
